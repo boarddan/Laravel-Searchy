@@ -1,9 +1,13 @@
 {
-    "name": "tom-lingham/searchy",
+    "name": "boarddan/laravel-searchy",
     "description": "Laravel Searchy makes user driven searching easy with fuzzy search, basic string matching, Levenshtein Distance and more.",
     "keywords": ["laravel","search","fuzzy"],
     "license": "MIT",
     "authors": [
+        {
+            "name": "Dan Gardiner",
+            "email": "dan@boardable.com"
+        },
         {
             "name": "Tom Lingham",
             "email": "tjlingham@gmail.com"
