@@ -1,12 +1,4 @@
-## !! UNMAINTAINED !! This package is no longer maintained
-
-Please see [Issue #117](https://github.com/TomLingham/Laravel-Searchy/issues/117)
-
-Here are some links to alternatives that you may be able to use (I do not guarantee the suitability or the quality of these projects, please ensure you do your own due dilligence in ensuring they meet your requirements):
-
-- *TODO*
-
-## Laravel 5+ Searchy
+## Laravel 10+ Searchy
 
 ### Database Searching Made Easy
 
@@ -14,20 +6,14 @@ Searchy is an; easy-to-use, light-weight, MySQL only, Laravel package that makes
 It uses pseudo fuzzy searching and other weighted mechanics depending on the search driver that you have enabled.
 It requires no other software installed on your server (so can be a little slower than dedicated search programs) but can be set up and ready to go in minutes.
 
-#### !! Laravel 4 !!
-
-Looking for Laravel 4 compatible Searchy? Checkout the 1.0 branch :)
-
-https://github.com/TomLingham/Laravel-Searchy/tree/1.0
-
 ## Installation
 
-Add `"tom-lingham/searchy" : "2.*"` to your composer.json file under `require`:
+Add `"boarddan/laravel-searchy" : "4.*"` to your composer.json file under `require`:
 
 ```json
 "require": {
-  "laravel/framework": "5.*",
-  "tom-lingham/searchy" : "2.*"
+  "laravel/framework": "10.*",
+  "boarddan/laravel-searchy" : "4.*"
 }
 ```
 
